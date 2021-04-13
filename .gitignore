@@ -8,6 +8,9 @@
 /var/
 /vendor/
 /.idea/
+/bin/
+/config/
+/migrations/
 ###< symfony/framework-bundle ###
 
 ###> symfony/phpunit-bridge ###
